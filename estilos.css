@@ -10,36 +10,51 @@ h1{
     font-size: 45px;
     text-align: center;
 }
+nav{
+    align-content: center;
+    background-color:gray;
+    border: 8px solid gray;
+    
+}
 
 a{
     color:green;
     text-decoration: none;
+    align-content: center;
 }
 
 
+
+
 ul li{
+    align-content: center;
     list-style-type: none;
     background-color:greenyellow;
     border: 12px solid greenyellow; 
     padding-left: 10px;
     display:inline-BLOCK;
+    text-align: center;
+
    
 }
+
+
 ul{
     color:green;
-    background-color:gray;
-    border: 15px solid gray;
     text-align: center;
 }
+
 li{
     color:green;
     padding-left: 20px;
+    font-size: 20px;
+    align-content: center;
 }
 
 .M{
     
-    padding-left: 18px!important;
-    padding-right: 18px!important;
+    padding-left: 16px;
+    padding-right: 16px;
    
  
 }
@@ -111,6 +126,14 @@ tr:nth-child(odd){ /*resalta las filas en la posición par dado el even*/
 }
 *{
     font-size: 15px;
-    font-family: 'roboto',sans-serif;
+    font-family: 'Roboto Slab', serif;
     
 }
+/*para cambiar el tamaño del ícono de inicio*/
+.material-symbols-outlined{
+    font-size: 15px;
+    color:black;
+}
+
+
+  
