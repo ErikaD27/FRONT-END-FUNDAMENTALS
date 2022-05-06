@@ -1,0 +1,13 @@
+input{
+    width: 70%;
+    padding: 12px 20px;
+    margin: 6px 0;
+    box-sizing: border-box;
+}
+label{
+   font-weight: bold;
+}
+
+#submit{
+    background-color:greenyellow;
+}
