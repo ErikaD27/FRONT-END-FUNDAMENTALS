@@ -1,0 +1,57 @@
+*{
+    font-size: 15px;
+    font-family: 'roboto',sans-serif;
+    font-weight: bold;/*negrita*/
+}
+h1{
+    color:pink;
+    font-size: 100px;
+}
+
+h2{
+    color: red;
+}
+/*
+#deportes{
+    color:purple;
+}*/
+.deporte{
+ 
+    color:black ;
+   
+
+}
+
+.articulosDeportes{
+    background-color: orange;
+}
+
+#plazos{
+    color: red;
+    background-color:green;
+}
+li{
+    color:blueviolet
+}
+ul{
+   background-color: black; 
+   
+}
+table{
+    background-color: tomato;
+    border-collapse: collapse;
+}
+th{
+    background-color: brown;
+}
+thead{
+    border-bottom: 2px solid black;
+}
+th,td{
+    border: solid 1px black;
+}
+
+tr:nth-child(odd){ /*resalta las filas en la posición par dado el even*/
+    background-color: aqua;
+
+}

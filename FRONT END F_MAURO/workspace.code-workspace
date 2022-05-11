@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "CODING_FUNDAMENTALS",
+			"path": "..\\CODING_FUNDAMENTALS"
+		},
+		{
+			"name": "FRONT END FUNDAMENTALS",
+			"path": "."
+		},
+		{
+			"name": "CONTENIDO MULTIMEDIA",
+			"path": "..\\CONTENIDO MULTIMEDIA"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "FRONT END FUNDAMENTALS"
+	}
+}
